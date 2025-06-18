@@ -5,13 +5,7 @@ A secure, stable and high-performance reverse proxy for NAT traversal, written i
 
 ## How to Run?
 
-
-Version 1: Run the following script on your server (Debian or Ubuntu):
-
-```
-bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Musixal/rathole-tunnel/main/rathole.sh)
-```
-Version 2 : Not compatible with the previous version / suggested / multi-service and multi-server capability
+Version 2
 ```
 bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/Musixal/rathole-tunnel/main/rathole_v2.sh)
 ```
